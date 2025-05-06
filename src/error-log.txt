@@ -1,9 +1,24 @@
-Error 1: Caught error for URL:
-LighthouseError: INVALID_URL
+Error 1: Caught error for https://publish-p110903-e1421633.adobeaemcloud.com/que-es-el-cambio-quinquenal-de-las-afores:
+Error: Chrome could not be killed Command failed: taskkill /pid 145284 /T /F
+ERROR: el proceso con PID 35572 (proceso secundario de PID 145284)
+no se pudo terminar.
+Motivo: La operaci�n que se ha intentado no est� permitida.
 
-Error 2: Caught error for URL:
-LighthouseError: INVALID_URL
 
-Error 3: Caught error for URL:
-LighthouseError: INVALID_URL
+Error 2: Caught error for https://publish-p110903-e1421633.adobeaemcloud.com/grupo-bal:
+Error: Chrome could not be killed Command failed: taskkill /pid 79040 /T /F
+ERROR: el proceso con PID 142388 (proceso secundario de PID 79040)
+no se pudo terminar.
+Motivo: La operaci�n que se ha intentado no est� permitida.
+ERROR: el proceso con PID 144180 (proceso secundario de PID 79040)
+no se pudo terminar.
+Motivo: La operaci�n que se ha intentado no est� permitida.
+
+
+Error 3: Caught error for https://publish-p110903-e1421633.adobeaemcloud.com/perspectiva-economica:
+Error: Chrome could not be killed Command failed: taskkill /pid 30148 /T /F
+ERROR: el proceso con PID 133980 (proceso secundario de PID 30148)
+no se pudo terminar.
+Motivo: La operaci�n que se ha intentado no est� permitida.
+
 
