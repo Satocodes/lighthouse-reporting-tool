@@ -1,0 +1,9 @@
+Error 1: Caught error for URL:
+LighthouseError: INVALID_URL
+
+Error 2: Caught error for URL:
+LighthouseError: INVALID_URL
+
+Error 3: Caught error for URL:
+LighthouseError: INVALID_URL
+

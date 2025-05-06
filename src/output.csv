@@ -1,0 +1,52 @@
+Name,Page type,URL,Performance,PWA,Best practices,Accessibility,SEO
+Example,Integridad,https://www.profuturo.mx/integridad,26,98,75,85
+Example,Error 404,https://www.profuturo.mx/error-404,26,97,68,92
+Example,Responsabilidad Social,https://www.profuturo.mx/responsabilidad-social,13,97,71,92
+Example,Grupo bal,https://www.profuturo.mx/grupo-bal,26,98,68,92
+Example,Grupo Profuturo,https://www.profuturo.mx/grupo-profuturo,26,88,68,85
+Example,Sostenibilidad,https://www.profuturo.mx/sostenibilidad,26,98,71,92
+Example,Centro de Ayuda,https://www.profuturo.mx/content/wps/portal/Ayuda,26,78,50,92
+Example,Responsables de servicio al cliente,https://www.profuturo.mx/responsables-de-servicio-al-cliente,21,98,71,92
+Example,Preguntas Frecuentes,https://www.profuturo.mx/preguntas-frecuentes,26,98,71,85
+Example,Medios de contacto,https://www.profuturo.mx/contacto,26,97,71,92
+Example,Aviso de Privacidad,https://www.profuturo.mx/aviso-de-privacidad,26,98,71,92
+Example,Encuentra una sucursal,https://www.profuturo.mx/encuentra-una-sucursal.html,26,98,68,92
+Example,Citas,https://www.profuturo.mx/agendar-citas,22,97,68,85
+Example,Información normativa,https://www.profuturo.mx/informacion-normativa.html,26,91,68,92
+Example,Reportes financieros,https://www.profuturo.mx/reportes-financieros,26,91,68,92
+Example,Mapa de sitio,https://www.profuturo.mx/mapa-de-sitio,26,97,68,92
+Example,Buscador de Portal Público,https://www.profuturo.mx/termino-de-busqueda-aqui-aparecera.html/,45,98,71,85
+Example,Home Portal Público,https://www.profuturo.mx/,26,99,71,92
+Example,Home Préstamos,https://www.profuturo.mx/prestamos,25,95,71,77
+Example,Pensionados profuturo,https://www.profuturo.mx/pensiones,25,95,71,85
+Example,Trámites Préstamos,https://www.profuturo.mx/pensiones/elige-profuturo,26,95,71,85
+Example,Profuturo Pensiones (home),https://www.profuturo.mx/pensiones,25,95,71,85
+Example,Elige Profuturo Pensiones,https://www.profuturo.mx/pensiones/elige-profuturo,26,95,71,85
+Example,Solicitar mi Pensión,https://www.profuturo.mx/pensiones/solicitar-mi-pension,26,95,71,85
+Example,Beneficiarios legales,https://www.profuturo.mx/pensiones/beneficiarios-legales,26,95,71,85
+Example,Obtén tu pensión con Profuturo,https://www.profuturo.mx/pensiones/obten-tu-pension,26,95,71,85
+Example,IMSS - Régimen de 1973,https://www.profuturo.mx/pensiones/regimen-imss-ley-73,20,95,71,85
+Example,IMSS - Régimen de 1997,https://www.profuturo.mx/pensiones/regimen-imss-ley-97,18,95,68,85
+Example,ISSSTE - 10º Transitorio,https://www.profuturo.mx/pensiones/regimen-issste-decimo-transitorio,19,95,71,85
+Example,ISSSTE - Cuenta individual,https://www.profuturo.mx/pensiones/regimen-issste-cuenta-individual,11,95,71,85
+Example,Trámites Pensiones,https://www.profuturo.mx/pensiones/tramites,26,93,71,58
+Example,Home Afore (Acerca de Afore),https://www.profuturo.mx/afore,26,99,71,85
+Example,Aportaciones Voluntarias,https://www.profuturo.mx/afore/tramites.html?tramite=ahorro-voluntario,50,98,71,85
+Example,Leer Estado de Cuenta,https://www.profuturo.mx/afore/tramites.html?tramite=estado-de-cuenta,51,98,71,85
+Example,Trámites Afore,https://www.profuturo.mx/afore/tramites,53,98,71,85
+Example,Documentos de análisis,https://www.profuturo.mx/perspectiva-economica,53,98,71,92
+Example,Qué es una SIEFORE,https://www.profuturo.mx/afore/que-es-una-siefore.html,27,98,71,92
+Example,Cuida tu futuro (Minusvalías),https://www.profuturo.mx/que-son-las-minusvalias,25,99,71,92
+Example,Cambio Quinquenal,https://www.profuturo.mx/que-es-el-cambio-quinquenal-de-las-afores,53,92,71,85
+Example,Chat de pensiones,https://www.profuturo.mx/reportes-financieros?sidebarId=sidebar-pensiones,26,97,68,92
+Example,Voluntariado (Home + Historias),https://www.profuturo.mx/voluntariado,25,98,71,92
+Example,Minusvalías,https://www.profuturo.mx/que-son-las-minusvalias,26,99,71,92
+Example,¿Por qué Profuturo?,https://afore.profuturo.mx/por-que-profuturo,7,87,75,100
+Example,¿En qué Afore estoy?,https://afore.profuturo.mx/en-que-afore-estoy,4,92,75,100
+Example,Elige Profuturo (Afores),https://afore.profuturo.mx/registro,4,95,71,100
+Example,¿Qué es una Afore?,https://afore.profuturo.mx/que-es-una-afore,5,89,71,100
+Example,Home Profuturo Asesora,https://www.profuturo.mx/profuturoasesora,26,91,71,85
+Example,Profuturo asesora Notas (121 Notas),https://www.profuturo.mx/profuturoasesora/afore,25,90,71,77
+Example,Profuturo asesora Notas (Detalle de resultados),https://www.profuturo.mx/profuturoasesora/resultados-profuturo-asesora,26,90,71,77
+Example,Trabaja en Profuturo,https://www.profuturo.mx/trabaja-en-profuturo,45,99,71,92
+Example,Buscador de Portal Público,https://www.profuturo.mx/termino-de-busqueda-aqui-aparecera.html/,53,98,71,85
